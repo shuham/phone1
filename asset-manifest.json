@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://github.com/shuham/phone/settings/pages/static/css/main.a617e044.chunk.css",
+    "main.js": "https://github.com/shuham/phone/settings/pages/static/js/main.609b39ae.chunk.js",
+    "main.js.map": "https://github.com/shuham/phone/settings/pages/static/js/main.609b39ae.chunk.js.map",
+    "runtime-main.js": "https://github.com/shuham/phone/settings/pages/static/js/runtime-main.af9151fb.js",
+    "runtime-main.js.map": "https://github.com/shuham/phone/settings/pages/static/js/runtime-main.af9151fb.js.map",
+    "static/js/2.47e6d7b4.chunk.js": "https://github.com/shuham/phone/settings/pages/static/js/2.47e6d7b4.chunk.js",
+    "static/js/2.47e6d7b4.chunk.js.map": "https://github.com/shuham/phone/settings/pages/static/js/2.47e6d7b4.chunk.js.map",
+    "static/js/3.6433c008.chunk.js": "https://github.com/shuham/phone/settings/pages/static/js/3.6433c008.chunk.js",
+    "static/js/3.6433c008.chunk.js.map": "https://github.com/shuham/phone/settings/pages/static/js/3.6433c008.chunk.js.map",
+    "index.html": "https://github.com/shuham/phone/settings/pages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "https://github.com/shuham/phone/settings/pages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.47e6d7b4.chunk.js.LICENSE.txt": "https://github.com/shuham/phone/settings/pages/static/js/2.47e6d7b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af9151fb.js",
+    "static/js/2.47e6d7b4.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.609b39ae.chunk.js"
+  ]
+}
